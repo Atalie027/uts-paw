@@ -63,13 +63,13 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
 ```markdown
-# Nama Aplikasi
+# Direktori Kuliner Sekitar Kampus 
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: ATALIE SALSABILA
+NIM: 123140027
+Kelas: RA
+Tema: Direktori Kuliner Sekitar Kampus
+Deployment: https://atalie027.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 

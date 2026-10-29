@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Geprek Mas Boy",
+    "kategori": "Nasi",
+    "alamat": "Jl. Pulau Sebesi No.36, Sukarame",
+    "hargaRataRata": 15000,
+    "jamBuka": "08.00-21.00"
+  },
+  {
+    "id": "2",
+    "judul": "Warung Kang Asep",
+    "kategori": "Nasi",
+    "alamat": "Jl. Lapas Raya 90-49, Way Huwi",
+    "hargaRataRata": 20000,
+    "jamBuka": "16.00-23.00"
+  },
+  {
+    "id": "3",
+    "judul": "Geprek Putra Tanjung",
+    "kategori": "Nasi",
+    "alamat": "Jl. Lapas Raya, Way Huwi",
+    "hargaRataRata": 12000,
+    "jamBuka": "10.00-20.00"
+  },
+  {
+    "id": "4",
+    "judul": "Warung Maba",
+    "kategori": "Nasi",
+    "alamat": "Jl. Airan I No.76, Way Huwi",
+    "hargaRataRata": 10000,
+    "jamBuka": "08.00-22.00"
+  },
+  {
+    "id": "5",
+    "judul": "Bakso Simo",
+    "kategori": "Mi",
+    "alamat": "Jl. Ryacudu, Harapan Jaya, Sukarame",
+    "hargaRataRata": 15000,
+    "jamBuka": "10.00-23.00"
+  },
+  {
+    "id": "6",
+    "judul": "Bakso Tenes & Mie Ayam",
+    "kategori": "Mi",
+    "alamat": "Jl. Airan Raya (depan RS Airan Raya), Way Huwi",
+    "hargaRataRata": 17000,
+    "jamBuka": "09.00-22.00"
+  },
+  {
+    "id": "7",
+    "judul": "Es Teh Indonesia",
+    "kategori": "Minuman",
+    "alamat": "Jl. Airan Raya No.7, Way Huwi",
+    "hargaRataRata": 8000,
+    "jamBuka": "10.00-20.00"
+  },
+  {
+    "id": "8",
+    "judul": "Mamamatcha",
+    "kategori": "Minuman",
+    "alamat": "Jl. Hi Pangeransuhaimi, Harapan Jaya, Sukarame",
+    "hargaRataRata": 10000,
+    "jamBuka": "14.00-21.00"
+  },
+  {
+    "id": "9",
+    "judul": "Finca Crepes Jumbo ITERA",
+    "kategori": "Jajanan",
+    "alamat": "Jl. Lapas Raya No.200, Way Huwi",
+    "hargaRataRata": 10000,
+    "jamBuka": "12.00-00.00"
+  },
+  {
+    "id": "10",
+    "judul": "Roti Bakar dan Kukus Bandung 46",
+    "kategori": "Jajanan",
+    "alamat": "Jl. Ryacudu No.3, Harapan Jaya, Sukarame",
+    "hargaRataRata": 13000,
+    "jamBuka": "15.30-01.00"
   }
 ]
