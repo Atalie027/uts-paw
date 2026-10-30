@@ -34,7 +34,7 @@
   {
     "id": "5",
     "judul": "Bakso Simo",
-    "kategori": "Mi",
+    "kategori": "Mie Bakso",
     "alamat": "Jl. Ryacudu, Harapan Jaya, Sukarame",
     "hargaRataRata": 15000,
     "jamBuka": "10.00-23.00"
@@ -42,7 +42,7 @@
   {
     "id": "6",
     "judul": "Bakso Tenes & Mie Ayam",
-    "kategori": "Mi",
+    "kategori": "Mie Bakso",
     "alamat": "Jl. Airan Raya (depan RS Airan Raya), Way Huwi",
     "hargaRataRata": 17000,
     "jamBuka": "09.00-22.00"
