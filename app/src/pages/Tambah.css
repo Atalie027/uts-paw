@@ -36,6 +36,24 @@
   cursor: pointer;
 }
 
+.formulir input:focus,
+.formulir select:focus {
+  outline: 2px solid var(--warna-utama);
+  border-color: var(--warna-utama);
+}
+
+#judul {
+  border-width: 2px;
+}
+
+#alamat {
+  min-width: 240px;
+}
+
+#jamBuka {
+  max-width: 200px;
+}
+
 @media (max-width: 480px) {
   .formulir button {
     align-self: stretch;

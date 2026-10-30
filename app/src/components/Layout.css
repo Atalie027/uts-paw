@@ -5,10 +5,12 @@
 }
 
 .kepala {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--warna-garis);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 .menu {
@@ -91,6 +93,22 @@
   border: 1px solid #c4c4c4;
   border-radius: 6px;
   font: inherit;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+.kartu {
+  transition: box-shadow 0.2s;
+}
+
+.kartu:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.kaki::before {
+  content: '© ';
 }
 
 @media (max-width: 768px) {
