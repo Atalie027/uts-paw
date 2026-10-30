@@ -1,4 +1,4 @@
-import { Navlink, Outlet } from "react-router-dom"
+import { NavLink, Outlet } from "react-router-dom"
 import './Layout.css'
 
 const MENU = [
